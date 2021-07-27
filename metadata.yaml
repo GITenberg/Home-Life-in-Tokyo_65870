@@ -1,0 +1,26 @@
+_repo: Home-Life-in-Tokyo_65870
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inouye, Jukichi
+    aliases:
+    - Inoue, Jukichi
+    - 井上十吉
+    - Inouye, J. (Jukichi)
+    birthdate: 1862
+    deathdate: 1929
+    gutenberg_agent_id: '50443'
+    url: http://www.gutenberg.org/2009/agents/50443
+description: ''
+gutenberg_issued: '2021-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Home Life in Tokyo
+url: http://www.gutenberg.org/ebooks/65870
