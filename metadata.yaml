@@ -1,5 +1,8 @@
 _repo: Home-Life-in-Tokyo_65870
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65870-h/images/cover.jpg
 creator:
   author:
     agent_name: Inouye, Jukichi
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '50443'
     url: http://www.gutenberg.org/2009/agents/50443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65870#Home-Life-in-Tokyo
 gutenberg_issued: '2021-07-19'
 gutenberg_type: Text
 identifiers:
